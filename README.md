@@ -33,8 +33,8 @@ La licenciante no puede revocar estas libertades en tanto usted siga los términ
 
 ### Diseño UI-UX
 ------------
-- aplicación tiene como objetivo las tres diferentes aproximaciones del diseño UI-UX es decir 
+- La aplicación tiene como objetivo las tres diferentes aproximaciones del diseño UI-UX es decir 
 que este sitio contiene material sujeto a la normativa de copyright, aclarando que se ha desarrollado la aplicacion para todo publico
-generando una atraccion a travez del diseño buscando un perfil unico y de facil utilizacion 
+generando una atraccion a través del diseño, buscando un perfil unico y de facil utilización.
 Los diseños de las vistas de la aplicacion y iconografia son reservados para sus respectivos propietarios unicament
-• [Diseño y Vistas del sistema](https://drive.google.com/file/d/1rj_M-1Tc2SN_0hucXaOr1Pe88UVOHHyY/view?usp=sharing"Diseño y Vistas del sistema")
+• [Diseño y Vistas del Sistema](https://drive.google.com/file/d/1rj_M-1Tc2SN_0hucXaOr1Pe88UVOHHyY/view?usp=sharing# "Diseño y Vistas del Sistema")
