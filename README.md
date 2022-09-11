@@ -17,11 +17,13 @@ Proyecto de cátedra de la materia DPS, ciclo 02-2022.
 ------------
 - El presente documento hace énfasis en el proceso de creación de HealthPlus, describiendo los diseños, herramientas, 
 presupuesto aproximado y primordialmente la lógica que se utilizará.
+
 • [Documento Fase 1](https://drive.google.com/file/d/17TN-MAY1cw1oEhT0lggzzmXhy3VcA6NV/view "Documento Fase 1")
 
 ### Tablero de actividades
 ------------
 - La gestión del proyecto y flujo de trabajo, se llevará mediante la supervisión tareas/actividades a través de Trello.
+
 • [Tablero de actividades](https://trello.com/b/NPSQmXii/health-plus "Tablero de actividades")
 
 ### Diseño UI-UX
