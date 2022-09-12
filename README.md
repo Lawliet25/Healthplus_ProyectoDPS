@@ -16,20 +16,20 @@ HealthPlus se trata de una aplicación orientada a la posibilidad de adquirir me
 
 ### Documento Fase 1
 ------------
-- El presente documento hace énfasis en el proceso de creación de HealthPlus, describiendo los diseños, herramientas, 
+El presente documento hace énfasis en el proceso de creación de HealthPlus, describiendo los diseños, herramientas, 
 presupuesto aproximado y primordialmente la lógica que se utilizará.
 
 • [Documento Fase 1](https://drive.google.com/file/d/17TN-MAY1cw1oEhT0lggzzmXhy3VcA6NV/view "Documento Fase 1")
 
 ### Tablero de actividades
 ------------
-- La gestión del proyecto y flujo de trabajo, se llevará mediante la supervisión tareas/actividades a través de Trello.
+La gestión del proyecto y flujo de trabajo, se llevará mediante la supervisión tareas/actividades a través de Trello.
 
 • [Tablero de actividades](https://trello.com/b/NPSQmXii/health-plus "Tablero de actividades")
 
 ### Diseño UI-UX
 ------------
-- La aplicación tiene como objetivo las tres diferentes aproximaciones del diseño UI-UX es decir 
+La aplicación tiene como objetivo las tres diferentes aproximaciones del diseño UI-UX es decir 
 que este sitio contiene material sujeto a la normativa de copyright, aclarando que se ha desarrollado la aplicacion para todo publico
 generando una atraccion a través del diseño, buscando un perfil unico y de facil utilización.
 Los diseños de las vistas de la aplicacion y iconografia son reservados para sus respectivos propietarios unicamente
