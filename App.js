@@ -4,7 +4,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 import Home from './components/Home';
 import Productos from './components/Productos';
-import Compras from './components/Compras';
+import Promociones from './components/Promociones';
 import Pedidos from './components/Pedidos';
 import Carrito from './components/Carrito';
 import Perfil from './components/Perfil';
@@ -70,8 +70,8 @@ function MyDrawer() {
         }}
       />
       <Drawer.Screen
-        name="Compras"
-        component={Compras}
+        name="Promociones"
+        component={Promociones}
         options={{
           drawerIcon: ({ color, size }) => (
             <MaterialCommunityIcons
