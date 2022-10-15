@@ -54,12 +54,9 @@ const stylesApp = StyleSheet.create({
     fontWeight: 'bold',
     color: '#00033f',
   },
-<<<<<<< Mirna
   ofertas:{
     textDecorationLine:'line-through'
   },
-=======
->>>>>>> main
 });
 
 export default stylesApp;
