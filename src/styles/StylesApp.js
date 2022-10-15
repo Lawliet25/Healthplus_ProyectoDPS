@@ -13,6 +13,15 @@ const stylesApp = StyleSheet.create({
     borderRadius: 15,
     padding: 10,
   },
+  SubcontainerM: {
+    marginVertical: 15,
+    flex: 1,
+    flexDirection: 'row',
+    backgroundColor:'white',
+    borderRadius: 15,
+    padding: 10,
+
+  },
   texto: {
     color: 'white'
   },
@@ -39,6 +48,14 @@ const stylesApp = StyleSheet.create({
    marginTop:15,
    backgroundColor:'white',
    borderRadius: 25,
+  },
+  titulomenu:{
+    fontSize: 20,
+    fontWeight: 'bold',
+    color: '#00033f',
+  },
+  ofertas:{
+    textDecorationLine:'line-through'
   },
 });
 
