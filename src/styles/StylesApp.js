@@ -34,6 +34,12 @@ const stylesApp = StyleSheet.create({
     flex: 4,
     marginLeft: 30,
   },
+  barra:{
+   padding:5,
+   marginTop:15,
+   backgroundColor:'white',
+   borderRadius: 25,
+  },
 });
 
 export default stylesApp;
