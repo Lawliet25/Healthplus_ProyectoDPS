@@ -57,6 +57,21 @@ const stylesApp = StyleSheet.create({
   ofertas:{
     textDecorationLine:'line-through'
   },
+  profile:{
+  marginTop:25,
+  alignItems:'center',
+  color:'white',
+  fontSize:20,
+  fontWeight: 'bold',
+  },
+  barrita:{
+   backgroundColor:'white',
+   borderRadius: 10,
+   marginTop:5,
+   fontSize:18,
+   width:300,
+   height:35,
+  },
 });
 
 export default stylesApp;
