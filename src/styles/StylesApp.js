@@ -72,6 +72,36 @@ const stylesApp = StyleSheet.create({
    width:300,
    height:35,
   },
+  
+  //apartado css para carrito de compras====================================
+  tituloCart:{
+    color:'white',
+    textAlign:'center',
+    marginTop:10,
+    fontWeight: 'bold',
+    fontSize:25,
+    
+  },
+  footerCART:{
+    flexDirection:'row',
+    padding:5,
+  },
+  totalPagoCart:{
+    color:'white',
+    marginLeft:20,
+    
+    
+  },
+  continuarPago:{
+    color:'white',
+    marginLeft:70,
+    
+
+  }
+  
+  
+//fin apartado css para carrito de compras====================================
+
 });
 
 export default stylesApp;
