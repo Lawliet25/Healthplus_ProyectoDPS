@@ -36,6 +36,14 @@ Los diseños de las vistas de la aplicacion y iconografia son reservados para su
 
 • [Diseño y Vistas del Sistema](https://drive.google.com/file/d/1rj_M-1Tc2SN_0hucXaOr1Pe88UVOHHyY/view?usp=sharing# "Diseño y Vistas del Sistema")
 
+### Video demostrativo fase 2
+------------
+• [Video demostrativo fase 2](https://www.youtube.com/watch?v=1VkEB8Qb9H0&t=122s "Video demostrativo fase 2")
+
+### Manual de usuario 
+------------
+• [Manual de usuario](https://drive.google.com/file/d/19WGXOCbFkA3wSCoV-q2YyUWZ5Zaj8-84/view "Manual de usuario")
+
 ### Licencia
 ------------
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">**Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internaciona**l</a>.
@@ -53,9 +61,5 @@ La licenciante no puede revocar estas libertades en tanto usted siga los términ
 - CompartirIgual — Si remezcla, transforma o crea a partir del material, debe distribuir su contribución bajo la [misma licencia](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es# "misma licencia") del original.
 
 *No hay restricciones adicionales — No puede aplicar términos legales ni medidas tecnológicas que restrinjan legalmente a otras a hacer cualquier uso permitido por la licencia.*
-
-### Video demostrativo fase 2
-------------
-• [Video demostrativo fase 2](https://www.youtube.com/watch?v=1VkEB8Qb9H0&t=122s "Video demostrativo fase 2")
 
 
