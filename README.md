@@ -44,6 +44,10 @@ Los diseños de las vistas de la aplicacion y iconografia son reservados para su
 ------------
 • [Manual de usuario](https://drive.google.com/file/d/19WGXOCbFkA3wSCoV-q2YyUWZ5Zaj8-84/view "Manual de usuario")
 
+### Manual tecnico 
+------------
+• [Manual tecnico](https://drive.google.com/file/d/1eL4sScx48xuOBotE580P-o-AflBw6S7k/view "Manual tecnico")
+
 ### Licencia
 ------------
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">**Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internaciona**l</a>.
