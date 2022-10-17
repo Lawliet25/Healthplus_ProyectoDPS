@@ -54,7 +54,8 @@ La licenciante no puede revocar estas libertades en tanto usted siga los términ
 
 *No hay restricciones adicionales — No puede aplicar términos legales ni medidas tecnológicas que restrinjan legalmente a otras a hacer cualquier uso permitido por la licencia.*
 
-
-
+### Video demostrativo fase 2
+------------
+• [Video demostrativo fase 2](https://www.youtube.com/watch?v=1VkEB8Qb9H0&t=122s "Video demostrativo fase 2")
 
 
