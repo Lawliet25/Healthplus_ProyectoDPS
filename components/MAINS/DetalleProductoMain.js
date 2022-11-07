@@ -31,7 +31,7 @@ function DetalleProductos ( {route} ){
         </Button>
 
         <Image 
-          //
+          source ={require("../../assets/ImagenesProductos/Tylenol.png")}
           alt="Producto"
           w="full"
           h={300}
