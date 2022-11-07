@@ -46,7 +46,7 @@ Los diseños de las vistas de la aplicacion y iconografia son reservados para su
 
 ### Manual tecnico 
 ------------
-• [Manual tecnico](https://drive.google.com/file/d/1eL4sScx48xuOBotE580P-o-AflBw6S7k/view "Manual tecnico")
+• [Manual tecnico](https://drive.google.com/file/d/1tNupxhFOIGxd4Q8J1tz0WxJ05VRLK6-3/view "Manual tecnico")
 
 ### Licencia
 ------------
