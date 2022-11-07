@@ -2,8 +2,6 @@ import {Button,Input,Heading,Text,Image,View,Box,VStack,Pressable} from 'native-
 import React from 'react'
 import Colors from "../../Data/Colores"
 import { MaterialIcons,FontAwesome5,Ionicons} from '@expo/vector-icons';
-import {getAuth,createUserWithEmailAndPassword,signInWithEmailAndPassword } from 'firebase/auth'
-import {initializeApp} from 'firebase/app'
 
 
 function LoginScreen ({navigation})
