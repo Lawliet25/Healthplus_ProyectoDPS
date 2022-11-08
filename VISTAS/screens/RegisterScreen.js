@@ -2,9 +2,45 @@ import {Button,Input,Heading,Text,Image,View,Box,VStack} from 'native-base'
 import React from 'react'
 import Colors from "../../Data/Colores"
 import { MaterialIcons,FontAwesome5,FontAwesome,Entypo  } from '@expo/vector-icons';
+import 'firebase/firestore';
+import firebase from "../../Data/DataBase/firebase"
+import {useState} from "react"
+
+function RegisterScreen ({navigation}){
+    
+    const [nombre, setNombre]=useState('')
+    const [dui, setDui]=useState('')
+    const [telefono, setTelefono]=useState('')
+    const [correo, setCorreo]=useState('')
+    const [pass, setPass]=useState('')
 
 
-function LoginScreen ({navigation}){
+    function RegistrarUser(){
+    try {
+          firebase.db.collection("Usuarios").add({
+          nombre:nombre,
+          dui:dui,
+          telefono:dui,
+          correo:correo,
+          pass:pass,
+        })
+        alert('Registrado Correctamente')
+        navigation.navigate("Bottom")
+    }
+    catch(e) {
+      console(e)
+    }
+    finally{
+      setNombre('')
+      setDui('')
+      setTelefono('')
+      setCorreo('')
+      setPass('')
+    }
+    
+    }
+
+  
 return (
     <Box flex={1} bg={Colors.backgroundColor} >
       <Image flex={1} alt="logo" 
@@ -44,6 +80,9 @@ return (
           color={Colors.blanco}
           borderBottomColor={Colors.blanco}
           borderBottomWidth="2"
+          
+          value={nombre}
+          onChangeText={text=> setNombre(text)}
         />
         {/*INPUT PARA DUI USER*/}
          <Input
@@ -57,6 +96,9 @@ return (
           color={Colors.blanco}
           borderBottomColor={Colors.blanco}
           borderBottomWidth="2"
+
+          value={dui}
+          onChangeText={text=> setDui(text)}
         />
         {/*INPUT PARA Telefono*/}
         <Input
@@ -70,6 +112,10 @@ return (
           color={Colors.blanco}
           borderBottomColor={Colors.blanco}
           borderBottomWidth="2"
+            
+          value={telefono}
+          onChangeText={text=> setTelefono(text)}
+          
         />
          {/*INPUT PARA correos*/}
         <Input
@@ -83,6 +129,10 @@ return (
           color={Colors.blanco}
           borderBottomColor={Colors.blanco}
           borderBottomWidth="2"
+          
+          value={correo}
+          onChangeText={text=> setCorreo(text)}
+         
         />
          {/*INPUT PARA CONTARASEÑA*/}
          <Input
@@ -97,6 +147,10 @@ return (
           color={Colors.underline}
            borderBottomColor={Colors.blanco}
           borderBottomWidth="2"
+          
+           value={pass}
+           onChangeText={text=> setPass(text)}
+          
         />
       </VStack>
 
@@ -107,7 +161,7 @@ return (
         marginRight="auto" marginLeft="auto"
         fontWeight='bold'
           bg={Colors.secondaryColor}
-          onPress={ ( )=>navigation.navigate("Bottom") }
+          onPress={()=>RegistrarUser()}
         >
         REGISTRAR
       </Button>
@@ -118,4 +172,4 @@ return (
   );
 }
 
-export default LoginScreen; 
+export default RegisterScreen; 
