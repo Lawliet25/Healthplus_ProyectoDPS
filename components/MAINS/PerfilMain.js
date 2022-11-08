@@ -25,7 +25,7 @@ function PerfilMain() {
         <Input
           InputLeftElement= {<FontAwesome5 name="user-alt"size={30} color={Colors.backgroundColor} /> }
           variant="underline"
-          placeholder="Marco Martinez"
+          placeholder="NOMBRE"
           w="90%"
           fontWeight='bold'
           fontSize="20"
@@ -39,7 +39,7 @@ function PerfilMain() {
          <Input
           InputLeftElement= {<FontAwesome name="vcard" size={30} color={Colors.backgroundColor} /> }
           variant="underline"
-          placeholder="061240256"
+          placeholder="DUI"
           w="90%"
           fontWeight='bold'
           fontSize="20"
@@ -52,7 +52,7 @@ function PerfilMain() {
         <Input
           InputLeftElement= {<Entypo name="phone" size={30} color={Colors.backgroundColor} /> }
           variant="underline"
-          placeholder="70127836"
+          placeholder="TELEFONO"
           w="90%"
           fontWeight='bold'
           fontSize="20"
@@ -65,7 +65,7 @@ function PerfilMain() {
         <Input
           InputLeftElement= {<MaterialIcons name="email" size={30} color={Colors.backgroundColor} /> }
           variant="underline"
-          placeholder="marco@gmail.com"
+          placeholder="CORREO"
           w="90%"
           fontWeight='bold'
           fontSize="20"
