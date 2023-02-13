@@ -1,8 +1,8 @@
-# Healthplus_ProyectoDPS
-Proyecto de cátedra de la materia DPS, ciclo 02-2022.
-HealthPlus se trata de una aplicación orientada a la posibilidad de adquirir medicamentos a través de un sistema de compras con control de inventario, carrito de compras y fabricantes, lo que permitirá adaptarse a las necesidades de cualquier farmacia.  
+# Proyecto Catedra DSM
+Proyecto de cátedra de la materia DPS,
+La aplicacion se trata de una aplicación orientada a la posibilidad de gestionar y controlar un inventario de medicamentos a través de un sistema digital util y de facil funcionalidad que sirva como control de inventario, Gestion  de compras y fabricantes, lo que permitirá adaptarse a las necesidades de cualquier farmacia.  
 
-### Integrantes DPS104 G02T 
+### Integrantes DSM 2023 
 ------------
 • Mirna Elizabeth Espinoza Anzora 	  EA190278 
 
@@ -16,37 +16,6 @@ HealthPlus se trata de una aplicación orientada a la posibilidad de adquirir me
 
 ### Documento Fase 1
 ------------
-El presente documento hace énfasis en el proceso de creación de HealthPlus, describiendo los diseños, herramientas, 
-presupuesto aproximado y primordialmente la lógica que se utilizará.
-
-• [Documento Fase 1](https://drive.google.com/file/d/17TN-MAY1cw1oEhT0lggzzmXhy3VcA6NV/view "Documento Fase 1")
-
-### Tablero de actividades
-------------
-La gestión del proyecto y flujo de trabajo, se llevará mediante la supervisión tareas/actividades a través de Trello.
-
-• [Tablero de actividades](https://trello.com/b/NPSQmXii/health-plus "Tablero de actividades")
-
-### Diseño UI-UX
-------------
-La aplicación tiene como objetivo las tres diferentes aproximaciones del diseño UI-UX es decir 
-que este sitio contiene material sujeto a la normativa de copyright, aclarando que se ha desarrollado la aplicacion para todo publico
-generando una atraccion a través del diseño, buscando un perfil unico y de facil utilización.
-Los diseños de las vistas de la aplicacion y iconografia son reservados para sus respectivos propietarios unicamente
-
-• [Diseño y Vistas del Sistema](https://drive.google.com/file/d/1rj_M-1Tc2SN_0hucXaOr1Pe88UVOHHyY/view?usp=sharing# "Diseño y Vistas del Sistema")
-
-### Video demostrativo fase 2
-------------
-• [Video demostrativo fase 2](https://www.youtube.com/watch?v=1VkEB8Qb9H0&t=122s "Video demostrativo fase 2")
-
-### Manual de usuario 
-------------
-• [Manual de usuario](https://drive.google.com/file/d/19WGXOCbFkA3wSCoV-q2YyUWZ5Zaj8-84/view "Manual de usuario")
-
-### Manual tecnico 
-------------
-• [Manual tecnico](https://drive.google.com/file/d/1tNupxhFOIGxd4Q8J1tz0WxJ05VRLK6-3/view "Manual tecnico")
 
 ### Licencia
 ------------
